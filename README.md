@@ -10,7 +10,7 @@
 * HLD :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/InvestmentAnalytics_HLD.pdf
 * LLD :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/InvestmentAnalytics_LLD.pdf
 * Architectural Document :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/InvestmentAnalytics_architecturaldesign.pdf
-* Wureframe Document :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/investmentanalytics_wireframe.pdf
+* Wireframe Document :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/investmentanalytics_wireframe.pdf
 
 # Presentation
 * LINK:- [Investment analytics presentation.pptx](https://github.com/Analyst-Sarthak/Investmentanalytics/files/11631704/Investment.analytics.presentation.pptx)
