@@ -11,7 +11,7 @@
 * LLD :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/InvestmentAnalytics_LLD.pdf
 * Architectural Document :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/InvestmentAnalytics_architecturaldesign.pdf
 * Wireframe Document :- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/a4703313ac253c65ba321c40b5903e3933398683/investmentanalytics_wireframe.pdf
-* Project Demo Video:- 
+* Project Demo Video:- https://github.com/Analyst-Sarthak/Investmentanalytics/blob/470a9383dc84fede61355aa1578e23205404aa59/demovideo%20(1).mp4
 
 # Presentation
 * LINK:- [Investment analytics presentation.pptx](https://github.com/Analyst-Sarthak/Investmentanalytics/files/11631704/Investment.analytics.presentation.pptx)
